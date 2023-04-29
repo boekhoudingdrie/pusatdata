@@ -3,5 +3,8 @@
     "sosmed" : {
         "instagram" : "xthree.accounting"
     },
-    "watermark" : "IT Club Skensala"
+    "watermark" : "IT Club Skensala",
+    "datasource" : {
+        "imgKarya" : "https://boekhoudingdrie.github.io/pusatdata/img/katalog/"
+    }
 }

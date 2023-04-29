@@ -1,28 +1,4 @@
 {
-    "namapertama" : {
-        "id": 1,
-        "namaLengkap": "Contoh Nama Panjang",
-        "judul": "judulpertama",
-        "tahun": 2023,
-        "jenis": "misal3d",
-        "alat": ["paku", "palu"],
-        "media": "papan cet",
-        "teknik": ["cat", "potong"],
-        "deskripsi": ["paragraf pertama misalnya", "terus ini paragraf kedua nya", "dan ini paragraf yang ketiga ygy"],
-        "usernameIg": "nizar_euy"
-    },
-    "namakedua" : {
-        "id": 2,
-        "namaLengkap": "Contoh Nama Panjang",
-        "judul": "judulkedua",
-        "tahun": 2023,
-        "jenis": "misal2d",
-        "alat": ["paku", "palu"],
-        "media": "batu kali",
-        "teknik": ["cat", "potong"],
-        "deskripsi": ["paragraf pertama misalnya", "terus ini paragraf kedua nya", "dan ini paragraf yang ketiga ygy"],
-        "usernameIg": "nizar_euy"
-    },
     "galuh" : {
         "id": 1,
         "namaLengkap": "Galuh Cikal Ramadhan",
