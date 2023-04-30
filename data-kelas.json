@@ -1,10 +1,17 @@
 {
+    "webtitle" : "E-Katalog",
+    "titledesc" : "Pameran Karya Seni 2023",
     "slogan" : "",
     "sosmed" : {
         "instagram" : "xthree.accounting"
     },
     "watermark" : "IT Club Skensala",
     "datasource" : {
-        "imgKarya" : "https://boekhoudingdrie.github.io/pusatdata/img/katalog/"
+        "imgKarya" : "https://boekhoudingdrie.github.io/pusatdata/img/katalog/",
+        "imgHome" : "https://boekhoudingdrie.github.io/pusatdata/img/home/"
+    },
+    "decoracy" : {
+        "imgdecor" : ["Ibu Isna.jpg", "Fotbar-1.avif", "Fotbar-2.avif"],
+        "textdecor" : ["XAKL3"]
     }
 }
